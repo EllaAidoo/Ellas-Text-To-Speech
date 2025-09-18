@@ -7,19 +7,19 @@ variable "aws_region" {
 variable "audio_bucket_name" {
   description = "S3 bucket name for storing audio files"
   type        = string
-  default     = "Ellas-text-to-speech-audio-bucket10"
+  default     = "ellas-text-to-speech-audio-bucket10"
 }
 
 variable "frontend_bucket_name" {
   description = "S3 bucket name for hosting static website"
   type        = string
-  default     = "Ellas-static-website-bucket10"
+  default     = "ellas-static-website-bucket10"
 }
 
 variable "lambda_function_name" {
   description = "Name of the Lambda function"
   type        = string
-  default     = "Ellas-text-to-speech"
+  default     = "ellas-text-to-speech"
 }
 
 variable "api_gateway_name" {
