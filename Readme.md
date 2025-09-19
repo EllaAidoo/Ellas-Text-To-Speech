@@ -87,10 +87,10 @@ POST https://<api-id>.execute-api.<region>.amazonaws.com/prod/speech
 
 ## 📸Screenshot
 s
-![Frontend](./docs/frontend.png.png)
-![API Gateway](./docs/apigateway.png.png)
+![Frontend](./docs/frontend.png)
+![API Gateway](./docs/apigateway.png)
 ![Lambda](./docs/lambda.png)
-![S3 Buckets](./docs/s3buckets.png.png)
+![S3 Buckets](./docs/s3buckets.png)
 
 ## 🛠️ Troubleshooting
 
